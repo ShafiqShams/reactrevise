@@ -45,9 +45,9 @@ TodoItem.propTypes = {
 }
 
 //Styles
-const itemStyle = {
-  backgroundColor: '#f4f4f4'
-}
+// const itemStyle = {
+//   backgroundColor: '#f4f4f4'
+// }
 
 const btnStyle = {
   backgroundColor: '#ff0000',
